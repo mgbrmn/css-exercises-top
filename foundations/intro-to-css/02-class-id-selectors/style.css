@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-p {
+    background-color: #dd6868;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font-adjust{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: #6ae06a;
+    font-weight: bold;
+}
+
